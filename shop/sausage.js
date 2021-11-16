@@ -7,14 +7,11 @@ FORMAT	ID
 			
 CANDY SAUSAGE			
 	
-60C	Rp 16,000.00		
-180C	Rp 45,000.00		
-316C	Rp 68,000.00		
-718C	Rp 135,000.00		
-1.368C	Rp 265,000.00		
-2.118C	Rp 418,000.00		
-3.548C	Rp 682,000.00		
-7.096C	Rp 1.305,000.00		
+60C	Rp 14,000.00		
+180C	Rp 44,000.00		
+316C	Rp 69,000.00			
+1.368C	Rp 273,000.00		
+2.118C	Rp 408,000.00		
 			
 Untuk pay / pembayan silahkan ketik ${prefix}pay
 `
